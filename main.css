@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(221, 226, 231);
+    font-family: Arial, Helvetica, sans-serif
+    font-size: 14px;
+    
+    }
+
+
+h2 {
+    color: #248daa;
+    text-align: center;
+    
+    
+
+}
+h3 {
+    color:#55a555;
+    text-align: center;
+    font-size: 22px;
+    
+
+
+
+}
+
+.image {
+    text-align: center;
+}
+
+ul li {
+    font-size: 12px;
+    
+
+
+}
+p.color {
+    color:rgb(160, 115, 160);
+}
